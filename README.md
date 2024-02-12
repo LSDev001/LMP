@@ -12,12 +12,12 @@ With our team, you get fully managed services that ensure safe seller growth acc
    You must review this Policy periodically as we may revise it from time to time, and updates will be posted here. Should you use or access this Platform subsequent to a change, you expressly agree to the modified changes as the only way we notify users or website visitors is by posting the updated policy with the revised date. If you do not accept our Policy in its entirety, you must immediately leave and stop doing business with the Platform.
 
 2. Information Collected
-   2.1 Personal Information
+    2.1 Personal Information
       To fully benefit from our Platform, we may collect PI, such as your name, email, telephone number, and Amazon MWS user keys. We may collect your relevant payment information should you pay for any services or receive referral commissions via the Platform. All payment information will be stored and processed by our third-party payment processors. We may also receive data from third parties or publicly available sources.
    2.2 Non-Personal Information
    When you use or visit the Platform, we may collect non-PI from you, such as IP address, zip code, gender, browsing, search, and registration history, interactions with the Platform, usage or transferred data, location, referring URL, operating system, and internet service provider. We may also collect information, including your postings, messages you send us, and correspondence we receive from others about your activities or postings to facilitate communication between Platform visitors.
 
-3. Use of Your Information
+4. Use of Your Information
    We may use your information to:
 
    enhance or improve service, user experience and operation of the Platform.
@@ -33,10 +33,10 @@ With our team, you get fully managed services that ensure safe seller growth acc
    Law Enforcement: to share with authorities as legally required or if we reasonably believe you have violated the law, our Terms or Privacy Policy, or if we believe anyone is at risk of bodily or economic harm. We are not liable for any damages that may arise from or relate to the actions described in this Section. 
    Data Transfer: to transfer and store outside of your jurisdiction where privacy laws may differ; however, we shall ensure that your PI has an adequate level of protection and that your PI will be accessible as stated herein.
    
-4. Data Rights
+5. Data Rights
    You may access, delete or edit your account information, compliant with your relevant jurisdiction at any time. Contact us to review, remove, change, or access any of your PI by email: info@legacyseller.com. After account cancellation, we only retain or share data in accordance with the law of your jurisdiction.
 
-5. Retention
+6. Retention
    We retain your PI only as long as required, for any legally required duration and only when absolutely necessary for these purposes.
 
 7. Third- Party Links
@@ -55,13 +55,14 @@ With our team, you get fully managed services that ensure safe seller growth acc
    There are specific requirements for residents of California and the EU. Below are specific notices that may not be covered or explicitly covered elsewhere in this Policy.
 
    EU Residents
+   
    We honor your rights under the GDPR:
-
+   
    Restrict processing: We may store the data, only enough to ensure we can accommodate any further requests. 
    Data portability: We allow you to port and reuse your PI across different platforms. 
    Object: You may object to our processing.
-
-
+   
+   
    California Residents
    Data Exchange Program: Our commercial data exchange program complies with the CCPA. 
    Direct Marketing: You may request certain information regarding our disclosure of PI for direct marketing purposes.
