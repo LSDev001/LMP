@@ -1,5 +1,4 @@
 # LEGACY SELLER PRIVACY POLICY
-LEGACY SELLER PRIVACY POLICY
 We Protect Your Data and Privacy as an  Amazon Seller
 We're a team that knows how to protect your data when you use our Amazon reimbursement services. We take your data and privacy as an Amazon seller seriously.
 We Care Deeply About Data Security and Privacy
