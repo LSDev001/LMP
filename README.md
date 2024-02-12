@@ -74,4 +74,4 @@ With our team, you get fully managed services that ensure safe seller growth acc
    Geolocation data: For instance, where your device is located.
 
 12. Contact
-   If you have any questions about this Policy, you want to evoke your data right, or if you have technical problems, you may contact us here.
+   If you have any questions about this Policy, you want to evoke your data right, or if you have technical problems, you may contact us here. contact@legacyseller.com
