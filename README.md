@@ -12,9 +12,9 @@ With our team, you get fully managed services that ensure safe seller growth acc
    You must review this Policy periodically as we may revise it from time to time, and updates will be posted here. Should you use or access this Platform subsequent to a change, you expressly agree to the modified changes as the only way we notify users or website visitors is by posting the updated policy with the revised date. If you do not accept our Policy in its entirety, you must immediately leave and stop doing business with the Platform.
 
 2. Information Collected
-    2.1 Personal Information
+<br> 2.1 Personal Information
       To fully benefit from our Platform, we may collect PI, such as your name, email, telephone number, and Amazon MWS user keys. We may collect your relevant payment information should you pay for any services or receive referral commissions via the Platform. All payment information will be stored and processed by our third-party payment processors. We may also receive data from third parties or publicly available sources.
-   2.2 Non-Personal Information
+<br> 2.2 Non-Personal Information
    When you use or visit the Platform, we may collect non-PI from you, such as IP address, zip code, gender, browsing, search, and registration history, interactions with the Platform, usage or transferred data, location, referring URL, operating system, and internet service provider. We may also collect information, including your postings, messages you send us, and correspondence we receive from others about your activities or postings to facilitate communication between Platform visitors.
 
 4. Use of Your Information
